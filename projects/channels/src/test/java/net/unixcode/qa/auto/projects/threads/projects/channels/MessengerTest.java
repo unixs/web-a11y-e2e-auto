@@ -1,6 +1,6 @@
-package net.unixcode.qa.auto.projects.channels;
+package net.unixcode.qa.auto.projects.threads.projects.channels;
 
-import net.unixcode.qa.auto.projects.channels.api.IMessenger;
+import net.unixcode.qa.auto.projects.threads.projects.channels.api.IMessenger;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

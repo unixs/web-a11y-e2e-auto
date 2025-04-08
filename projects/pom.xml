@@ -19,6 +19,7 @@
 
   <modules>
     <module>channels</module>
+    <module>threads</module>
   </modules>
 
 

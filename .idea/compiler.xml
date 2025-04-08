@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="core (1) (net.unixcode.qa.auto)" />
+        <module name="threads" />
         <module name="core (2) (net.unixcode.qa.auto.web)" />
         <module name="a11y" />
         <module name="channels" />

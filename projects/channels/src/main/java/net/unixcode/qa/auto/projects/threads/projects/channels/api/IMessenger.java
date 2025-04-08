@@ -1,4 +1,4 @@
-package net.unixcode.qa.auto.projects.channels.api;
+package net.unixcode.qa.auto.projects.threads.projects.channels.api;
 
 import java.util.function.Supplier;
 

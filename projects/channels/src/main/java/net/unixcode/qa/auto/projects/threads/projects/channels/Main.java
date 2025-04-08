@@ -1,4 +1,4 @@
-package net.unixcode.qa.auto.projects.channels;
+package net.unixcode.qa.auto.projects.threads.projects.channels;
 
 import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
